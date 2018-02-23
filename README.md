@@ -9,6 +9,7 @@ puppeteerの練習用です。
 
 ぐらいしかしてません。
 
-サンプルは
+サンプルファイルは
 [こちら](https://drive.google.com/file/d/19G0uKRWFovqe_o8Tq82UQrfixyyGqYiU/view?usp=drivesdk)
 
+※ ディレクトリごと公開しました [こちら](https://drive.google.com/open?id=1yXsW3ma0RsnBWBTlPYSM8g9s02RFyhra)
