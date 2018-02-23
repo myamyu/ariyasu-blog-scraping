@@ -8,3 +8,7 @@ puppeteerの練習用です。
 - PDFに出力
 
 ぐらいしかしてません。
+
+サンプルは
+[こちら](https://drive.google.com/file/d/19G0uKRWFovqe_o8Tq82UQrfixyyGqYiU/view?usp=drivesdk)
+
